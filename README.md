@@ -1,5 +1,5 @@
-# Yet Another Generic Swerve Library (YAGSL) Example project
 
+<<<<<<< HEAD
 YAGSL is intended to be an easy implementation of a generic swerve drive that should work for most
 square swerve drives. The project is documented
 on [here](https://github.com/BroncBotz3481/YAGSL/wiki). The JSON documentation can also be
@@ -116,4 +116,7 @@ Without the debugging and aid of Team 7900 the project could never be as stable 
 "# YAGSL-Experimental" 
 "# YAGSL-Experimental" 
 "# YAGSL-Experimental" 
+"# YAGSL-Experimental" 
+=======
+>>>>>>> b90f50a659afa2755378de00847844c17ce79931
 "# YAGSL-Experimental" 
